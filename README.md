@@ -1,2 +1,1 @@
-# nextjs-blog
-learning and building the Blog post app using Next.js
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
